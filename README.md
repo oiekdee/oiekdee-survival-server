@@ -10,7 +10,6 @@ Rules:
 * Chill
 
 Configuration:
-
 * Locator bar disabled
 * Show days played enabled
 * Show coordinates enabled
