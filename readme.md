@@ -23,7 +23,6 @@ Server IP: 147.185.221.24
 Server Port: 3014  
 Discord server: https://discord.gg/hwYxWKX5g
 
-[Read more](https://github.com/oiekdee/deehsmp)
-[Read privacy policy](https://github.com/oiekdee/deehsmp/blob/main/privacy%20policy.md)
+[Read more](https://github.com/oiekdee/deehsmp) | [Read privacy policy](https://github.com/oiekdee/deehsmp/blob/main/privacy%20policy.md)
 
 The server is online, you can join it 🥳
