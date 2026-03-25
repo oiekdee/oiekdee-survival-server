@@ -17,6 +17,6 @@ Configuration:
 
 Complaints, feedback, discussions, and media sharing can be uploaded to the Discord server.
 
-Server IP Adress: 147.185.221.24
-Server Port: 3014
+Server IP Adress: 147.185.221.24  
+Server Port: 3014  
 Discord server: https://discord.gg/hwYxWKX5gK
