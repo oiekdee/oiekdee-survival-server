@@ -8,6 +8,7 @@ Rules:
 * Respect other players
 * Don't kill new player
 * Chill
+* Don't make any uncomfortable condition
 
 Configuration:
 * Locator bar disabled
