@@ -1,4 +1,4 @@
-## Privacy reminder
+## **PRIVACY REMINDER**
 when you join my server, as default "bedrock dedicated server" work, my server is able to keep a temporary record of players joining and leaving, including player username, xuid and pfid, Server logs are ignored when the server is reloaded. as an example
 
 ```
