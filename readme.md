@@ -1,4 +1,4 @@
-Oiekdee Survival Server is a Minecraft Bedrock vanilla survival server with no world resets, aimed at creating a comfortable survival environment where you can earn achievements. You don't need to download any additional addons to join. By joining this server you agree to the privacy statement and server rules.
+Kdee builder is a Minecraft Bedrock vanilla survival server with no world resets, aimed at creating a comfortable survival environment where you can earn achievements. You don't need to download any additional addons to join. By joining this server you agree to the privacy policy and server rules.
 
 Rules:
 1. Friendly
@@ -23,4 +23,4 @@ Discord server: https://discord.gg/hwYxWKX5g
 
 The server is online, you can join it 🥳
 
-[Read more](https://github.com/oiekdee/deehsmp) | [Read privacy policy](https://github.com/oiekdee/deehsmp/blob/main/privacy%20policy.md)
+[Read more](https://github.com/oiekdee/deehsmp) | [Read privacy policy](https://github.com/oiekdee/deehsmp/blob/main/privacy%20policy.md) | [Read history](https://github.com/oiekdee/deehsmp/blob/main/history.md)
