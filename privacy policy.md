@@ -8,6 +8,6 @@ These terms explain words used in this document.
 This policy explains how the server processes your data.
 
 1. Logs, including username and datetime when you join and disconnect, are posted in the Discord channel "player-connected."
-2. Server logs exclude player XUID and PFID.
+2. Processed server logs are exclude your player XUID and PFID.
 
 An option to hide join/disconnect notifications is planned. For questions, contact me on Discord.
