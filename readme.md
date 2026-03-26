@@ -15,7 +15,7 @@ Configuration:
 3. Show coordinates enabled
 4. Difficulty normal
 
-Complaints, feedback, discussions, and media sharing can be uploaded to the Discord server.
+Complaints, feedback, discussions, and media sharing can be uploaded to the Discord server. Player join and disconnect events can be viewed on Discord.
 
 Server IP: 147.185.221.24  
 Server Port: 3014  
@@ -23,4 +23,4 @@ Discord server: https://discord.gg/hwYxWKX5g
 
 The server is online, you can join it 🥳
 
-[Read more](https://github.com/oiekdee/deehsmp) | [Read privacy policy](https://github.com/oiekdee/deehsmp/blob/main/privacy%20policy.md) | [Read history](https://github.com/oiekdee/deehsmp/blob/main/history.md)
+[Read more](https://github.com/Oiekdee-survival-server/deehsmp) | [Read privacy policy](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/privacy%20policy.md) | [Read history](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/history.md)
