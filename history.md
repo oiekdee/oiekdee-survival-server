@@ -11,4 +11,6 @@
 * Removed startup chat feature
 
 ### **2026-03-26**
-* Alternate server name added: "Deeh SMP" (Oiekdee → Deeh SMP)
+* Alternate server name added: "Kdee Builder" or "Oie(kdee+Builder)"
+* New feature show players connecting and disconnecting in Discord
+* Privacy policy updated
