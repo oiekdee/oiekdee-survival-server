@@ -1,4 +1,4 @@
-Kdee builder is a Minecraft Bedrock vanilla survival server with no world resets, aimed at creating a comfortable survival environment where you can earn achievements. You don't need to download any additional addons to join. By joining this server you agree to the privacy policy and server rules.
+Kdee builder is a Minecraft Bedrock vanilla survival server with no world resets. You don't need to download any additional addons to join, where you can earn achievements. By joining this server you agree to the privacy policy and server rules.
 
 Rules:
 1. Friendly
@@ -21,6 +21,4 @@ Server IP: 147.185.221.24
 Server Port: 3014  
 Discord server: https://discord.gg/hwYxWKX5g
 
-The server is disabled, because new features are being developed
-
-[Read more](https://github.com/Oiekdee-survival-server/deehsmp) | [Read privacy policy](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/privacy%20policy.md) | [Read history](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/history.md)
+[Read more](https://github.com/Oiekdee-survival-server/deehsmp) | [Read privacy policy](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/privacy%20policy.md)
