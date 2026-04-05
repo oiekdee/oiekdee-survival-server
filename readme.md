@@ -1,6 +1,7 @@
+### **What is this?**
 Kdee builder is a Minecraft Bedrock vanilla survival server with no world resets. You don't need to download any additional addons to join, where you can earn achievements. By joining this server you agree to the privacy policy and server rules.
 
-Rules:
+### **Rules**
 1. Friendly
 2. No toxic
 3. No racist
@@ -9,14 +10,16 @@ Rules:
 6. Chill
 7. Respect other players
 
-Configuration:
+## **Configuration**
 1. Locator bar disabled
 2. Show days played enabled
 3. Show coordinates enabled
 4. Difficulty normal
 
+## **Additional**
 Complaints, feedback, discussions, and media sharing can be uploaded to the Discord server. Player join and disconnect events can be viewed on Discord.
 
+### **Access & status**
 Server IP: 147.185.221.24  
 Server Port: 3014  
 Discord server: https://discord.gg/hwYxWKX5g
