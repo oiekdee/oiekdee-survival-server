@@ -10,14 +10,11 @@ Kdee builder is a Minecraft Bedrock vanilla survival server with no world resets
 6. Chill
 7. Respect other players
 
-## **Configuration**
+### **Configuration**
 1. Locator bar disabled
 2. Show days played enabled
 3. Show coordinates enabled
 4. Difficulty normal
-
-## **Additional**
-Complaints, feedback, discussions, and media sharing can be uploaded to the Discord server. Player join and disconnect events can be viewed on Discord.
 
 ### **Access & status**
 Server IP: 147.185.221.24  
@@ -25,5 +22,8 @@ Server Port: 3014
 Discord server: https://discord.gg/hwYxWKX5g
 
 server is offline
+
+### **Additional**
+Complaints, feedback, discussions, and media sharing can be uploaded to the Discord server. Player join and disconnect events can be viewed on Discord.
 
 [Read more](https://github.com/Oiekdee-survival-server/deehsmp) | [Read privacy policy](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/privacy%20policy.md)
