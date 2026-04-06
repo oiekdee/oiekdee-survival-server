@@ -26,4 +26,4 @@ server is offline
 ### **Additional**
 Complaints, feedback, discussions, and media sharing can be uploaded to the Discord server. Player join and disconnect events can be viewed on Discord.
 
-[Read more](https://github.com/Oiekdee-survival-server/deehsmp) | [Read privacy policy](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/privacy%20policy.md)
+[Read more](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/readme.md) | [Read privacy policy](https://github.com/oiekdee/Oiekdee-survival-server/blob/main/privacy%20policy.md)
