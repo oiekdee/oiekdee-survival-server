@@ -21,7 +21,7 @@ Server IP: 147.185.221.24
 Server Port: 3014  
 Discord server: https://discord.gg/hwYxWKX5g
 
-server is online
+server is offline
 
 ### **Additional**
 Complaints, feedback, discussions, and media sharing can be uploaded to the Discord server. Player join and disconnect events can be viewed on Discord.
